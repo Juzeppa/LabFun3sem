@@ -1,0 +1,5 @@
+READ(B, 10);
+WRItE(B, 2);
+READ(A, 10);
+A:=\A;
+WRITE(A, 2);

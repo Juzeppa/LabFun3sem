@@ -1,0 +1,4 @@
+100 AA Moscow BB Tokyo 10:10:10 20:20:20
+200 CC London DD Paris 11:11:11 21:21:22
+300 EE Dubai FF Chikago 12:12:12 23:23:23
+400 GG New-York HH Shankhai 13:13:13 19:19:19

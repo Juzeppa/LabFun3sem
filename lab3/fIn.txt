@@ -1,0 +1,5 @@
+IN A;
+IN B;
+NAND a, b;
+OUT B;
+OUT A;

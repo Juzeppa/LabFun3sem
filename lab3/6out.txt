@@ -1,0 +1,10 @@
+Surname1 Name1 Secondname1 210 3.4
+Surname2 Name2 Secondname2 206 3.2
+Surname3 Name3 Secondname3 202 3.6
+Surname4 Name4 Secondname4 206 3.8
+Surname5 Name5 Secondname5 204 4.2
+Surname6 Name6 Secondname6 204 3.8
+Surname7 Name7 Secondname7 201 3.8
+Surname8 Name8 Secondname8 207 3.2
+Surname9 Name9 Secondname9 206 3.8
+Surname10 Name10 Secondname10 207 2.4

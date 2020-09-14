@@ -1,0 +1,13 @@
+{{read(in, 10);
+read(B, 2);
+{{}C:= in + B;
+write(c, 10);
+D:= ~in;}}}
+read(D,2);
+read(i,3);
+write(D, 2);
+write(i, 2);
+M := D + i;
+write(M, 2);
+A := M & D;
+write(A, 2);
