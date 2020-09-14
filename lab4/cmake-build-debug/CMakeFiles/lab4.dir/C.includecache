@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rabdiaz/Desktop/fiitonyashka/FundInf/lab4/Task2.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+string.h
+-
+

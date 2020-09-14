@@ -1,0 +1,3 @@
+/home/rabdiaz/Desktop/fiitonyashka/FundInf/lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rabdiaz/Desktop/fiitonyashka/FundInf/lab4/cmake-build-debug/CMakeFiles/lab4.dir
+/home/rabdiaz/Desktop/fiitonyashka/FundInf/lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
