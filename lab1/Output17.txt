@@ -1,0 +1,4 @@
+Number: 1001, min count system = 2, in DEC = 9
+Number: 12, min count system = 3, in DEC = 5
+Number: 123, min count system = 4, in DEC = 27
+Number: AA, min count system = 11, in DEC = 120
